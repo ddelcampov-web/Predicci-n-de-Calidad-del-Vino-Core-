@@ -6,3 +6,4 @@ Utilizar técnicas de clasificación aprendidas hasta el momento para predecir l
 
 Descripción del Dataset: Este conjunto de datos contiene información sobre distintas características físico-químicas de muestras de vino tinto y su calidad asociada. Las características incluyen acidez fija, acidez volátil, ácido cítrico, azúcar residual, cloruros, dióxido de azufre libre, dióxido de azufre total, densidad, pH, sulfatos y alcohol. La calidad del vino está clasificada en una escala del 0 al 10.
 
+https://colab.research.google.com/drive/13J0V3ifN4F8l7oSMcRA9iVhlwxMomrZ6?usp=sharing
